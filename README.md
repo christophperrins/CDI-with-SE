@@ -1,15 +1,6 @@
 Each folder has its own README!
 
-# 1. Contents
-- [2. CDI in SE](#2-cdi-in-se)
-    - [2.1. What's in this chapter?](#21-whats-in-this-chapter)        
-      - [2.1.1. Just Concretions](#211-just-concretions)        
-      - [2.1.2. Reduced Coupling with Interfaces](#212-reduced-coupling-with-interfaces)   
-      - [2.1.3. Dependency Inversion](#213-dependency-inversion)        
-      - [2.1.4. Dependency Injection](#214-dependency-injection)        
-      - [2.1.5. Dependency Injection with Tags](#215-dependency-injection-with-tags)
-
-# 2. CDI in SE
+# 1. CDI in SE
 
 This is a 4 part piece in which I go through:
 
@@ -17,6 +8,15 @@ This is a 4 part piece in which I go through:
 - [**Content and Dependency Injection (CDI)**](https://github.com/christophperrins/CDI-with-SE)
 - [Rest Services in Java EE](https://github.com/christophperrins/REST-with-EE)
 - [Combining Rest services, CDI and JPA](https://github.com/christophperrins/EEServer)
+
+# 2. Contents
+- [2. Contents](#2-contents)
+    - [2.1. What's in this chapter?](#21-whats-in-this-chapter)        
+      - [2.1.1. Just Concretions](#211-just-concretions)        
+      - [2.1.2. Reduced Coupling with Interfaces](#212-reduced-coupling-with-interfaces)   
+      - [2.1.3. Dependency Inversion](#213-dependency-inversion)        
+      - [2.1.4. Dependency Injection](#214-dependency-injection)        
+      - [2.1.5. Dependency Injection with Tags](#215-dependency-injection-with-tags)
 
 ## 2.1. What's in this chapter?
 
