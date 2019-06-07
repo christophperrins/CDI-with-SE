@@ -55,7 +55,14 @@ Finally we might want to say - inject the friendly types - if there is more than
 
 It will do its best to match the tags of the implementation with what we want to inject in. 
 
-If no tag is given, it is the same as saying:
+If no tag is given ie:
+
+```Java
+@Inject
+Interface interface
+```
+
+It will actually tag it with the @Default annotation so it will look something similar to this instead:
 
 ```Java
 @Inject
